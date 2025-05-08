@@ -38,7 +38,8 @@ python dataCollection.py
 python test.py
 ```
 Outputs📷<br>
-![image alt](https://github.com/ValiShaik03/RealTime-Sign-Language-Detection/blob/b64fee64849421e1bba84f8276591215af9e4fd4/outputs/Hello.png)
+![image alt](https://github.com/ValiShaik03/RealTime-Sign-Language-Detection/blob/b64fee64849421e1bba84f8276591215af9e4fd4/outputs/Hello.png) width=100 
+<img src="https://github.com/ValiShaik03/RealTime-Sign-Language-Detection/blob/main/outputs/Hello.png" width=100 heigth=100>
 <br>
 🚀 Features:<br>
 👍Real-time hand detection<br>
