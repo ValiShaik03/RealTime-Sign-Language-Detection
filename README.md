@@ -1,5 +1,5 @@
 # RealTime-Sign-Language-Detection
-✨ RealTime Sign Language Detection
+✨ RealTime Sign Language Detection<br>
 A real-time hand gesture and sign language recognition system using OpenCV, TensorFlow, and CVZone.<br>
 📂 Project Structure
 
@@ -37,7 +37,7 @@ python dataCollection.py
 ```bash
 python test.py
 ```
-✋ Features:<br>
+🚀 Features:<br>
 👍Real-time hand detection<br>
 
 👌Custom sign language gesture classification<br>
