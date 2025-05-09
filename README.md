@@ -38,8 +38,20 @@ python dataCollection.py
 python test.py
 ```
 Outputs📷<br>
-![image alt](https://github.com/ValiShaik03/RealTime-Sign-Language-Detection/blob/b64fee64849421e1bba84f8276591215af9e4fd4/outputs/Hello.png) width=100 
-<img src="https://github.com/ValiShaik03/RealTime-Sign-Language-Detection/blob/main/outputs/Hello.png" width=100 heigth=100>
+
+<img src="https://github.com/ValiShaik03/RealTime-Sign-Language-Detection/blob/main/outputs/Hello.png" width=250 heigth=250>
+<br>
+<img src="https://github.com/ValiShaik03/RealTime-Sign-Language-Detection/blob/main/outputs/ILoveYou.png" width=250 heigth=250>
+<br>
+<img src="https://github.com/ValiShaik03/RealTime-Sign-Language-Detection/blob/main/outputs/No.png" width=250 heigth=250>
+<br>
+<img src="https://github.com/ValiShaik03/RealTime-Sign-Language-Detection/blob/main/outputs/OK.png" width=250 heigth=250>
+<br>
+<img src="https://github.com/ValiShaik03/RealTime-Sign-Language-Detection/blob/main/outputs/Please.png" width=250 heigth=250>
+<br>
+<img src="https://github.com/ValiShaik03/RealTime-Sign-Language-Detection/blob/main/outputs/Thank%20You.png" width=250 heigth=250>
+<br>
+<img src="https://github.com/ValiShaik03/RealTime-Sign-Language-Detection/blob/main/outputs/Yes.png" width=250 heigth=250>
 <br>
 🚀 Features:<br>
 👍Real-time hand detection<br>
